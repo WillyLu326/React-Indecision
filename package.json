@@ -1,0 +1,8 @@
+{
+  "name": "indicision",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WillyLu326/React-Indecision.git",
+  "author": "WillyLu326 <luzh0326@gmail.com>",
+  "license": "MIT"
+}
